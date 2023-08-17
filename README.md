@@ -1,4 +1,4 @@
-Daftar-Biodata-Siswa
+Daftar-Biodata-Siswa-SMA
 ==
 Daftar biodata Siswa Dicoding Academy
 --
